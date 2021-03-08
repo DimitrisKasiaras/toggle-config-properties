@@ -2,3 +2,5 @@ togglz:
   features:
     MY_SERVICE:
       enabled: true
+    SECOND_SERVICE:
+      enabled: true
