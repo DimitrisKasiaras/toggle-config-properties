@@ -1,4 +1,4 @@
 togglz: 
   features:
     MY_SERVICE:
-      enabled: false
+      enabled: true
